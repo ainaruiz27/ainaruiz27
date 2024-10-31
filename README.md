@@ -14,13 +14,11 @@ I'm Aina Ruiz, a passionate Web Develop student 💻.
 - 💬 Ask me about web accessibility, or my journey from social work to web development!
 
 🤝 &nbsp; **Connect with me:** 
-  - [LinkedIn](https://www.linkedin.com/in/aina-ruiz-sarasa/)
-  - [GitHub](https://github.com/ainaruiz27)
   - [Email](mailto:ainaruiz1997@gmail.com)
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aina-ruiz-sarasa/))
+
 
 <hr>
 
@@ -31,12 +29,6 @@ I'm Aina Ruiz, a passionate Web Develop student 💻.
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40"> |
 
 <hr>
-
-### ⚙️ &nbsp; Git Analytics
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&theme=dark&layout=compact" width="410" /></p>
-
 
 ------
 Credit: [Aina Ruiz](https://github.com/ainaruiz27)
