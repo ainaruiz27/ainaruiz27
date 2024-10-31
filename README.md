@@ -14,9 +14,7 @@ I'm Aina Ruiz, a passionate Web Develop student 💻.
 - 💬 Ask me about web accessibility, or my journey from social work to web development!
 
 🤝 &nbsp; **Connect with me:** 
-  - [Email](mailto:ainaruiz1997@gmail.com)
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainaruiz1997@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aina-ruiz-sarasa/)
 
 
